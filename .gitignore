@@ -1,0 +1,16 @@
+# don't ignore myself!
+!.gitignore
+
+# Visual Studio specific files
+bin/
+obj/
+*.suo
+*.user
+
+# NuGet
+packages/
+
+images/raw
+*.zip
+*.rar
+
